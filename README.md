@@ -30,7 +30,7 @@ These models are much simpler to print, they can be printed with normal pla (or 
 
 <img src="./images/snowpixel_case_double.png" style="width: 100%; height: auto;" />
 
- > Not an amazing render, I will update it with proper photos soon
+ > Not an amazing render, I will update it with proper photos soon.
 
 ## Manufacturing update
 Even if quite out of spec for JLCPCB's cheapest offering (not paying for castellated holes and definitely going over spec for both the copper and silkscreen layers) the boards all turned out mostly fine!  
@@ -40,3 +40,4 @@ The boards are otherwise perfectly functional and pretty simple to assemble by h
 #### Todo for v1.2
 - [ ] Modify data jumpers for easier operation. (Maybe cuttable traces?)
 - [ ] Make leds silkscreen thicker.
+
