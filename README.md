@@ -7,7 +7,10 @@ The built in solder jumpers in the data pads let the user decide whether the mod
 The modules are meant to be used standalone or as an smd component in and of itself.
 The leds used are XL-1010RGBC-WS2812B 1x1mm leds which are the smallest currently available.
 If you have a clean 5V supply the capacitors on the back are usually not needed.
-This project is meant mainly as a test to push the pcb fab's specs to the limit and try a couple 3D printing ideas to obtain a thin, seamless display.
+
+
+## Goal
+This project is meant **mainly as a POC (Proof Of Concept)**, to push the pcb fab's specs to the limit and try a couple 3D printing ideas to obtain a *thin*, seamless display.
 
 
 <img src="./images/snowpixel_double.png" style="width: 100%; height: auto;" />
@@ -39,5 +42,6 @@ The boards are otherwise perfectly functional and pretty simple to assemble by h
 #### Todo for v1.2
 - [ ] Modify data jumpers for easier operation. (Maybe cuttable traces?)
 - [ ] Make leds silkscreen thicker.
+
 
 
